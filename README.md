@@ -1,6 +1,7 @@
 PerfectAPI-v0.1 Readme
 
 Dear, User
+
 Date- June 16, 2015
 
   Please do not make changes in any file without proper knowledge or information because by making changes the script will create fatal errors and sometimes the result can be overflow.
@@ -13,7 +14,7 @@ Date- June 16, 2015
 
   API Description:-
   
-    It is a well designed and small in size pure Javascript and PHP API that will manage the problem of device identification and resolve the issue by taking the user to the appropriate and supported website mentioned by you that corresponding to the respected devices. It is     the development stage of this API so anyone can contribute and some other issue resolving feature will added in the upcoming versions. If you found any bug or a security hole then please inform me or contribute solution.
+It is a well designed and small in size pure Javascript and PHP API that will manage the problem of device identification and resolve the issue by taking the user to the appropriate and supported website mentioned by you that corresponding to the respected devices. It is     the development stage of this API so anyone can contribute and some other issue resolving feature will added in the upcoming versions. If you found any bug or a security hole then please inform me or contribute solution.
     
   How to use?:-
   
@@ -53,7 +54,9 @@ Date- June 16, 2015
   For the constrution of your own API according to your features then please contact to me (Shrish Shrivastava) by sending a request mail at developerperf@gmail.com I will surely respond you whenever I found your request.
   
   Regards,
+  
   Author and API Developer
+  
   Shrish Shrivastava
   
 	
