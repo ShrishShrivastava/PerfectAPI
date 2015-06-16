@@ -19,24 +19,26 @@ Date- June 16, 2015
     PerfectAPI-v0.1.php
    and create a folder named "JSON_DB" without quotes in the directory where your Index.php and PerfectAPI-v0.1.php is located
    and under the JSON_DB Directory put the data.json file after doing so your entire file structure will look something like this.
-    www [directory]
-      Index.php [file]
-      PerfectAPI-v0.1.php [file]
-      JSON_DB [directory]
-        data.json [file]
+   
+	 www [directory]
+		 Index.php [file]
+		 PerfectAPI-v0.1.php [file]
+		 JSON_DB [directory]
+			data.json [file]
+			
    Remember: You can use it on any host server but the your Index.php must have PHP extension and you can choose any parent directory.
    
    Implementation on your Index.php:-
-    To Implement the API on your Index.php file please edit your Index.php just like the below one:-
-    <html>
-    <head><title>yourwebsitetitle</title></head>
-    <body androidred="http://yourandroidsite.com" iphonered="http://youriossite.com" mobred="http://yourmobilesite.com" desktopred="http://yourdesktopsite.com">
-    <?php
-    require 'PerfectAPI-v0.1.php';
-    ?>
-    <h1>yourwebsitebody</h1>
-    </body>
-    </html>
+   To Implement the API on your Index.php file please edit your Index.php just like the below one:-
+	 <html>
+	 <head><title>yourwebsitetitle</title></head>
+    	<body androidred="http://yourandroidsite.com" iphonered="http://youriossite.com" mobred="http://yourmobilesite.com" 	              desktopred="http://yourdesktopsite.com">
+	 <?php
+	 require 'PerfectAPI-v0.1.php';
+	 ?>
+	 <h1>yourwebsitebody</h1>
+	 </body>
+    	</html>
     
   If every thing is right then after opening your Index.php user will get redirected to the site supported by his device.
   
