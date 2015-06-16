@@ -8,7 +8,7 @@ Date- June 16, 2015
 	
 	FILE STRUCTURE:-
 		PerfectAPI-v0.1 //Main API.
-		JSON_DB/data.json //Well orgainzed Database various UA Strings and their corresponding device types.
+		data.json //Well orgainzed Database various UA Strings and their corresponding device types.
 		Readme.md //Readme
 		License.file // License of the API
 
