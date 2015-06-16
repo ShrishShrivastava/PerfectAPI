@@ -30,15 +30,18 @@ Date- June 16, 2015
    
    Implementation on your Index.php:-
    To Implement the API on your Index.php file please edit your Index.php just like the below one:-
-	 &lt;html&gt;
-	 &lt;head&gt;&lt;title&gt;yourwebsitetitle&lt;/title&gt;&lt;/head&gt;
-    	&lt;body androidred="http://yourandroidsite.com" iphonered="http://youriossite.com" mobred="http://yourmobilesite.com" 	              desktopred="http://yourdesktopsite.com"&gt;
-	 &lt;?php
-	 require 'PerfectAPI-v0.1.php';
-	 ?&gt;
-	 &lt;h1&gt;yourwebsitebody&lt;/h1&gt;
-	 &lt;/body&gt;
-    	&lt;/html&gt;
+   
+   
+		 &lt;html&gt;
+		 &lt;head&gt;&lt;title&gt;yourwebsitetitle&lt;/title&gt;&lt;/head&gt;
+    		&lt;body androidred="http://yourandroidsite.com" iphonered="http://youriossite.com" 			mobred="http://yourmobilesite.com" 	              desktopred="http://yourdesktopsite.com"&gt;
+		 &lt;?php
+		 require 'PerfectAPI-v0.1.php';
+		 ?&gt;
+		 &lt;h1&gt;yourwebsitebody&lt;/h1&gt;
+		 &lt;/body&gt;
+    		&lt;/html&gt;
+    
     
   If every thing is right then after opening your Index.php user will get redirected to the site supported by his device.
   
