@@ -51,7 +51,7 @@ It is a well designed and small in size pure Javascript and PHP API that will ma
   Words from Author:- 
   
   This API is in its Development Stage and If you have any suggestion or idea then your contribution must be welcomed, If any bug or security hole is found in this API then please Infrom to me and if you know how to resolve the issue then please contribute, your contribution must be appreciated.
-  For the constrution of your own API according to your features then please contact to me (Shrish Shrivastava) by sending a request mail at developerperf@gmail.com I will surely respond you whenever I found your request.
+  For the construction of your own API according to your features then please contact to me (Shrish Shrivastava) by sending a request mail at developerperf@gmail.com I will surely respond you whenever I found your request.
   
   Regards,
   
