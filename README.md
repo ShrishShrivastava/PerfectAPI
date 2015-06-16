@@ -14,11 +14,11 @@ Date- June 16, 2015
 
   API Description:-
   
-It is a well designed and small in size pure Javascript and PHP API that will manage the problem of device identification and resolve the issue by taking the user to the appropriate and supported website mentioned by you that corresponding to the respected devices. It is     the development stage of this API so anyone can contribute and some other issue resolving feature will added in the upcoming versions. If you found any bug or a security hole then please inform me or contribute solution.
+It is a well designed and small in size pure Javascript and PHP API that will manage the problem of device identification and resolve the issue by taking the user to the appropriate and supported website mentioned by you that corresponds to the respected devices. It is the development stage of this API so anyone can contribute and some other issue resolving feature will added in the upcoming versions. If you found any bug or a security hole then please inform me or contribute solution.
     
   How to use?:-
   
-   There is nothing special in this topic, you just have to create an Index.php where you want and put the files in the directory where your Index.php is located that files are:-
+   There is nothing special in this topic, you just have to create an Index.php where you want and put the files in the directory where your Index.php is located that files are
     PerfectAPI-v0.1.php
    and create a folder named "JSON_DB" without quotes in the directory where your Index.php and PerfectAPI-v0.1.php is located
    and under the JSON_DB Directory put the data.json file after doing so your entire file structure will look something like this.
